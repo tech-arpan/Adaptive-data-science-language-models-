@@ -1,2 +1,2 @@
 # Adaptive-data-science-language-models-
-This is a ML-based project.
+This solution focuses on designing and evaluating data science-oriented language models that can intelligently adapt to different types of data science tasks and models, such as regression, classification, clustering, and time-series analysis. Students are expected to build solutions that understand the context of a problem and assist in selecting, configuring, or even generating appropriate data science workflows.
